@@ -145,7 +145,7 @@ header {}
 }
 
 .hero-image {
-  background-image: linear-gradient(to bottom, rgba(76, 36, 238, 0.62), rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 1)), url("..file:///Users/kristinarcidiacono/Desktop/tvstatic.png");
+  background-image: linear-gradient(to bottom, rgba(76, 36, 238, 0.62), rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 1)), url("https://previews.123rf.com/images/gar1984/gar19841901/gar1984190100077/115431489-no-signal-tv-texture-television-grainy-noise-effect-as-a-background-no-signal-retro-vintage-televisi.jpg");
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
