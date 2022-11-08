@@ -145,7 +145,7 @@ header {}
 }
 
 .hero-image {
-  background-image: linear-gradient(to bottom, rgba(76, 36, 238, 0.62), rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 1)), url("file:///Users/kristinarcidiacono/Desktop/tvstatic.png");
+  background-image: linear-gradient(to bottom, rgba(76, 36, 238, 0.62), rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 1)), url("..file:///Users/kristinarcidiacono/Desktop/tvstatic.png");
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
